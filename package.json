@@ -1,0 +1,12 @@
+{
+  "name": "me13c",
+  "version": "1.0.0",
+  "description": "A simple server to download files directly.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
